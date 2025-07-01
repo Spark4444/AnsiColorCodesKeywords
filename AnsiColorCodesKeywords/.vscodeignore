@@ -1,5 +1,4 @@
 .vscode/**
-.gitignore
 # bakcgroundColors.json and textColors.json are seperated versions of ansiColors.json for better readability, they are not used in the extension.
 snippets/backgroundColors.json
 snippets/textColors.json
