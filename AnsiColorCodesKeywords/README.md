@@ -1,12 +1,14 @@
-# ANSI Color Codes Keywords
+# Ansi Color Codes Keywords
 
 This extension provides keywords for ANSI color codes, allowing you to easily insert ANSI color codes into your code or terminal.
 
 ## Installation
 
+just press the install button lol
 
 ## Usage
-Write the keyword for the desired ANSI color code, and it will be replaced with the corresponding ANSI escape sequence.
+1. Install the extension
+2. Write the keyword for the desired ANSI color code, and it will be replaced with the corresponding ANSI escape sequence.
 
-## Current State of the extension
-finished
+## Source Code
+[GitHub Repository](https://github.com/Spark4444/AnsiColorCodesKeywords)
