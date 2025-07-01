@@ -1,0 +1,170 @@
+{
+    "Reset Color": {
+        "prefix": "ansiReset",
+        "body": [
+            "\\x1b[0m"
+        ],
+        "description": "Reset ansi text color to default"
+    },
+    "Black Color": {
+        "prefix": "ansiBlack",
+        "body": [
+            "\\x1b[30m"
+        ],
+        "description": "Set ansi text color to black"
+    },
+    "Red Color": {
+        "prefix": "ansiRed",
+        "body": [
+            "\\x1b[30m"
+        ],
+        "description": "Set ansi text color to red"
+    },
+    "Green Color": {
+        "prefix": "ansiGreen",
+        "body": [
+            "\\x1b[32m"
+        ],
+        "description": "Set ansi text color to green"
+    },
+    "Yellow Color": {
+        "prefix": "ansiYellow",
+        "body": [
+            "\\x1b[33m"
+        ],
+        "description": "Set ansi text color to yellow"
+    },
+    "Blue Color": {
+        "prefix": "ansiBlue",
+        "body": [
+            "\\x1b[34m"
+        ],
+        "description": "Set ansi text color to blue"
+    },
+    "Magenta Color": {
+        "prefix": "ansiMagenta",
+        "body": [
+            "\\x1b[35m"
+        ],
+        "description": "Set ansi text color to magenta"
+    },
+    "Cyan Color": {
+        "prefix": "ansiCyan",
+        "body": [
+            "\\x1b[36m"
+        ],
+        "description": "Set ansi text color to cyan"
+    },
+    "White Color": {
+        "prefix": "ansiWhite",
+        "body": [
+            "\\x1b[37m"
+        ],
+        "description": "Set ansi text color to white"
+    },
+    "Bright Black Color": {
+        "prefix": "ansiBrightBlack",
+        "body": [
+            "\\x1b[90m"
+        ],
+        "description": "Set ansi text color to bright black"
+    },
+    "Bright Red Color": {
+        "prefix": "ansiBrightRed",
+        "body": [
+            "\\x1b[91m"
+        ],
+        "description": "Set ansi text color to bright red"
+    },
+    "Bright Green Color": {
+        "prefix": "ansiBrightGreen",
+        "body": [
+            "\\x1b[92m"
+        ],
+        "description": "Set ansi text color to bright green"
+    },
+    "Bright Yellow Color": {
+        "prefix": "ansiBrightYellow",
+        "body": [
+            "\\x1b[93m"
+        ],
+        "description": "Set ansi text color to bright yellow"
+    },
+    "Bright Blue Color": {
+        "prefix": "ansiBrightBlue",
+        "body": [
+            "\\x1b[94m"
+        ],
+        "description": "Set ansi text color to bright blue"
+    },
+    "Bright Magenta Color": {
+        "prefix": "ansiBrightMagenta",
+        "body": [
+            "\\x1b[95m"
+        ],
+        "description": "Set ansi text color to bright magenta"
+    },
+    "Bright Cyan Color": {
+        "prefix": "ansiBrightCyan",
+        "body": [
+            "\\x1b[96m"
+        ],
+        "description": "Set ansi text color to bright cyan"
+    },
+    "Bright White Color": {
+        "prefix": "ansiBrightWhite",
+        "body": [
+            "\\x1b[97m"
+        ],
+        "description": "Set ansi text color to bright white"
+    },
+    "Bold Text": {
+        "prefix": "ansiBold",
+        "body": [
+            "\\x1b[1m"
+        ],
+        "description": "Set ansi text to bold"
+    },
+    "Dim Text": {
+        "prefix": "ansiDim",
+        "body": [
+            "\\x1b[2m"
+        ],
+        "description": "Set ansi text to dim"
+    },
+    "Underlined Text": {
+        "prefix": "ansiUnderline",
+        "body": [
+            "\\x1b[4m"
+        ],
+        "description": "Set ansi text to underlined"
+    },
+    "Blinking Text": {
+        "prefix": "ansiBlink",
+        "body": [   
+            "\\x1b[5m"
+        ], 
+        "description": "Set ansi text to blinking"
+    },
+    "Reverse Text": {
+        "prefix": "ansiReverse",
+        "body": [
+            "\\x1b[7m"
+        ],
+        "description": "Set ansi text to reverse colors"
+    },
+    "Hidden Text": {
+        "prefix": "ansiHidden",
+        "body": [
+            "\\x1b[8m"
+        ],
+        "description": "Set ansi text to hidden"
+    },
+    "Strikethrough Text": {
+        "prefix": "ansiStrikethrough",
+        "body": [
+            "\\x1b[9m"
+        ],
+        "description": "Set ansi text to strikethrough"  
+    }
+}

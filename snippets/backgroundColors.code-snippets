@@ -1,0 +1,121 @@
+{
+    "Reset Background Color": {
+        "prefix": "ansiBgReset",
+        "body": [
+            "\\x1b[49m"
+        ],
+        "description": "Reset ansi background color to default"
+    },
+    "Background Black": {
+        "prefix": "ansiBgBlack",
+        "body": [
+            "\\x1b[40m"
+        ],
+        "description": "Set ansi background color to black"
+    },
+    "Background Red": {
+        "prefix": "ansiBgRed",
+        "body": [
+            "\\x1b[41m"
+        ],
+        "description": "Set ansi background color to red"
+    },
+    "Background Green": {
+        "prefix": "ansiBgGreen",
+        "body": [
+            "\\x1b[42m"
+        ],
+        "description": "Set ansi background color to green"
+    },
+    "Background Yellow": {
+        "prefix": "ansiBgYellow",
+        "body": [
+            "\\x1b[43m"
+        ],
+        "description": "Set ansi background color to yellow"
+    },
+    "Background Blue": {
+        "prefix": "ansiBgBlue",
+        "body": [
+            "\\x1b[44m"
+        ],
+        "description": "Set ansi background color to blue"
+    },
+    "Background Magenta": {
+        "prefix": "ansiBgMagenta",
+        "body": [
+            "\\x1b[45m"
+        ],
+        "description": "Set ansi background color to magenta"
+    },
+    "Background Cyan": {
+        "prefix": "ansiBgCyan",
+        "body": [
+            "\\x1b[46m"
+        ],
+        "description": "Set ansi background color to cyan"
+    },
+    "Background White": {
+        "prefix": "ansiBgWhite",
+        "body": [
+            "\\x1b[47m"
+        ],
+        "description": "Set ansi background color to white"
+    },
+    "Background Bright Black": {
+        "prefix": "ansiBgBrightBlack",
+        "body": [
+            "\\x1b[100m"
+        ],
+        "description": "Set ansi background color to bright black"
+    },
+    "Background Bright Red": {
+        "prefix": "ansiBgBrightRed",
+        "body": [
+            "\\x1b[101m"
+        ],
+        "description": "Set ansi background color to bright red"
+    },
+    "Background Bright Green": {
+        "prefix": "ansiBgBrightGreen",
+        "body": [
+            "\\x1b[102m"
+        ],
+        "description": "Set ansi background color to bright green"
+    },
+    "Background Bright Yellow": {
+        "prefix": "ansiBgBrightYellow",
+        "body": [
+            "\\x1b[103m"
+        ],
+        "description": "Set ansi background color to bright yellow"
+    },
+    "Background Bright Blue": {
+        "prefix": "ansiBgBrightBlue",
+        "body": [
+            "\\x1b[104m"
+        ],
+        "description": "Set ansi background color to bright blue"
+    },
+    "Background Bright Magenta": {
+        "prefix": "ansiBgBrightMagenta",
+        "body": [
+            "\\x1b[105m"
+        ],  
+        "description": "Set ansi background color to bright magenta"
+    },
+    "Background Bright Cyan": {
+        "prefix": "ansiBgBrightCyan",
+        "body": [
+            "\\x1b[106m"
+        ],
+        "description": "Set ansi background color to bright cyan"
+    },
+    "Background Bright White": {
+        "prefix": "ansiBgBrightWhite",
+        "body": [
+            "\\x1b[107m"
+        ],
+        "description": "Set ansi background color to bright white"
+    }
+}
