@@ -2,6 +2,8 @@
 
 This extension provides keywords for ANSI color codes, allowing you to easily insert ANSI color codes into your code or terminal.
 
+[Visual Studio Code link](https://marketplace.visualstudio.com/items?itemName=Sigmabudanov.ansi-color-codes-keywords)
+
 ## Installation
 
 1. Press the blue button `<> Code`.
