@@ -2,7 +2,7 @@
   "name": "ansi-color-codes-keywords",
   "displayName": "Ansi Color Codes Keywords",
   "description": "VS Code Snippets for Ansi Color Codes",
-  "version": "1.3.0",
+  "version": "1.3.5",
   "publisher": "Sigmabudanov",
   "icon": "img/icon.png",
   "readme": "README.md",
@@ -95,5 +95,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Spark4444/VsCodeEvangelionTheme"
+  },
+  "dependencies": {
+    "vsce": "^2.15.0"
   }
 }

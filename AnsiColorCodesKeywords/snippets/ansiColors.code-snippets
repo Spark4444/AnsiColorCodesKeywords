@@ -16,7 +16,7 @@
     "Red Color": {
         "prefix": "ansiRed",
         "body": [
-            "\\x1b[30m"
+            "\\x1b[31m"
         ],
         "description": "Set ansi text color to red"
     },

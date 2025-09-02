@@ -1,4 +1,13 @@
 .vscode/**
-# bakcgroundColors.json and textColors.json are seperated versions of ansiColors.json for better readability, they are not used in the extension.
+# backgroundColors.json and textColors.json are separated versions of ansiColors.json for better readability, they are not used in the extension.
 snippets/backgroundColors.json
+
 snippets/textColors.json
+
+.gitignore
+
+# Ignore all JSON files and VSIX packages
+**.json
+**.vsix
+
+node_modules/**
